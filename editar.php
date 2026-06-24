@@ -118,7 +118,7 @@ if (isset($_GET['id'])) {
             <input type="submit" value="Atualizar">
         </form>
         <div class="voltar">
-            <a href="portal.php">← Voltar ao portal</a>
+            <a href="portal.php">← Voltar para portal</a>
         </div>
     </div>
 </body>
