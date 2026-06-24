@@ -244,30 +244,3 @@ ou
 http://localhost:8000
 ```
 
----
-
-## Melhorias Futuras
-
-* Recuperação de senha
-* Validação de formulários
-* Upload de foto de perfil
-* Paginação da tabela
-* Busca de usuários
-* Controle de permissões
-* Dashboard administrativo
-* Proteção contra CSRF
-* Utilização de Composer
-* Arquitetura MVC
-
----
-
-## Autor
-
-Desenvolvido como projeto acadêmico para prática de:
-
-* PHP Orientado a Objetos
-* CRUD
-* PDO
-* Sessões
-* Autenticação de usuários
-* Integração com MySQL
